@@ -49,35 +49,49 @@ The next steps (2-4) require replacing the replace the reading and math scores w
 ## High and Low Performing Schools
 <ins>The top 5 and bottom 5 performing schools, based on the overall passing rate</ins>
 
+![image](https://user-images.githubusercontent.com/30300621/177911451-5fdeeed0-3eb0-445e-9c30-2aca428b89e1.png)
+
+![image](https://user-images.githubusercontent.com/30300621/177911482-3f373a3f-4885-4506-a6e5-771cc77d6c66.png)
 
 
+## Math and Reading Scores by Grade
 
+![image](https://user-images.githubusercontent.com/30300621/177911896-ff08e5d7-a6bf-42b2-9c7f-cdd457d3570a.png)
 
-<ins>The average reading score for each grade level from each school</ins>
+![image](https://user-images.githubusercontent.com/30300621/177911942-604ece3d-f100-4583-b8ce-56e9e4fdfbca.png)
 
-<ins>The scores by school spending per student, by school size, and by school type</ins>
+![image](https://user-images.githubusercontent.com/30300621/177912007-daeb6fe9-c776-4053-9ae3-6730c554c420.png)
 
-## RESULTS
+## Scores by School Spending
 
-Using bulleted lists and images of DataFrames as support, address the following questions.
+![image](https://user-images.githubusercontent.com/30300621/177912301-fca13b80-c8be-4467-a0ab-ac63b9c0958c.png)
 
-**How is the district summary affected?**
+![image](https://user-images.githubusercontent.com/30300621/177912353-db654387-d7c2-4aa4-ba51-d242d7856174.png)
 
-**How is the school summary affected?**
+## Scores by School Size
 
-**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+![image](https://user-images.githubusercontent.com/30300621/177912514-29c1c16e-3c65-4d96-8fc8-f62cce1af2ff.png)
 
-**How does replacing the ninth-grade scores affect the following:**
+![image](https://user-images.githubusercontent.com/30300621/177912557-b7ab7c4d-50a3-4f7b-842e-e04e63980e91.png)
 
-<ins>Math and reading scores by grade</ins>
+## Scores by School Type
 
-<ins>Scores by school spending</ins>
+![image](https://user-images.githubusercontent.com/30300621/177912725-0422f7e2-e0b7-44e5-9486-13d5a745b37e.png)
 
-<ins>Scores by school size</ins>
+![image](https://user-images.githubusercontent.com/30300621/177912801-c7fcef8f-553f-443d-ac29-1f9b660601c6.png)
 
-<ins>Scores by school type</ins>
 
 ## Summary: 
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+1. The District Summary was affected by the cleanup
+
+    - Before the cleanup, Thomas High School had an overall passing percentage of 91%
+    - After the cleanup, Thomas High School had an overall passing percentage of 65%
+
+2. The School Summary was affected by Thomas' High school ranking dropping from 2nd to 8th in the District. 
+
+3. The Scores by School Size category was not affected significantly. There was very little change in the average math and reading scores after the 9th grade data was changed to NaNs. 
+
+4. The same can be added for Scores by School Type. There was very little change in the average math and reading scores after the 9th grade data was changed to NaNs.
 
